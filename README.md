@@ -25,4 +25,4 @@ I am interested in **spatial omics, digital pathology, genomics, AI, and deep le
 
 - GitHub: [Juan-Carlos-Gomez](https://github.com/Juan-Carlos-Gomez)
 
-- LinkedIn: [Carlos Gomez(https://www.linkedin.com/in/j-carlosgomez/)
+- LinkedIn: [Carlos Gomez](https://www.linkedin.com/in/j-carlosgomez/)
